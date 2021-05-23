@@ -12,8 +12,8 @@
 
 # System Design
 
-![screenshot](https://github.com/Chinmay-395/Mind_Mapper/github_meta_data/system_design.png)
+![screenshot](https://github.com/Chinmay-395/Mind_Mapper/blob/main/github_meta_data/system_design.png)
 
 # Presentation
 
-[presentation](https://github.com/Chinmay-395/Mind_Mapper/github_meta_data/Mind_Mapper.pptx)
+[presentation](https://github.com/Chinmay-395/Mind_Mapper/blob/main/github_meta_data/Mind_Mapper.pptx)
