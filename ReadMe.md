@@ -4,7 +4,7 @@
 
 1. MERN + GraphQL
 2. Socket-IO
-3. React-graph and React-flow-render
+3. React-graph, react-graph-vis, react-digraph and React-flow-render
 4. Neo4j for graph database
 5. Symbl.ai
 6. scikit-learn & Tensorflow
